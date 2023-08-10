@@ -34,7 +34,8 @@ a, b, c, d;
         }
     }
 }
-1 2```
+1 2
+```
 
 This is the grammar of the language accepted by this interpreter:
 ![Language grammar](https://i.imgur.com/D9awdQf.png)
